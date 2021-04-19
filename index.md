@@ -2,7 +2,7 @@
 title: Home
 sections:
   - title: lorem-ipsumAAAA
-    subtitle: lorem-ipsum
+    subtitle: lorem-ipsumfff
     actions: []
     has_background: false
     background_color: white
