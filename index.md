@@ -1,6 +1,12 @@
 ---
 title: Home
 sections:
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    has_background: false
+    background_color: white
+    type: cta_section
   - type: hero_section
     title: This Is A Big Hero Headline..
     subtitle: >-
@@ -84,12 +90,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    has_background: false
-    background_color: white
-    type: cta_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
