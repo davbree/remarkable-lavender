@@ -26,6 +26,12 @@ header:
     - label: Blog
       url: /blog
       style: link
+    - label: lorem-ipsum
+      url: '#'
+      style: link
+      new_window: false
+      no_follow: false
+      type: action
     - label: About
       url: /about
       style: link
