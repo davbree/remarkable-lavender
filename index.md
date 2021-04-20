@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: lorem-ipsumAAAA
+  - title: lorem-ipsumAAAA..
     subtitle: lorem-ipsumfff
     actions: []
     has_background: false
